@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.27\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun -project="C:\Source\Capstone_Test\Capstone_Test.uproject" -noP4 -platform=Win64 -clientconfig=Development -cook -allmaps -NoCompile -stage -pak -archive -archivedirectory="C:\Builds\Capstone_Test"
